@@ -1,0 +1,16 @@
+{"sidebar_style": {
+    "position": "fixed",
+    "top": 0,
+    "left": 0,
+    "bottom": 0,
+    "width": "25rem",
+    "padding": "1rem 1rem",
+    "background-color": "#f8f9fa",
+    "overflow-y": "scroll",
+    "overflow-x": "hidden"
+},
+"content_style": {
+    "margin-left": "15rem",
+    "margin-right": "1rem",
+    "padding": "1rem 1rem"
+}}
